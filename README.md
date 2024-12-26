@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🌱 I’m currently learning **JavaScript Library,**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ashutosh-kumar-3624b332a](www.linkedin.com/in/ashutosh-kumar-3624b332a)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ashutosh-kumar-3624b332a](www.linkedin.com/in/ashutosh-kumar-3624b332a/)
 
 - 💬 Ask me about **Java, Python, HTML, Kotlin, Flask, Figma,**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashutosh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-kumar-3624b332a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/sharmashutosh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmashutosh01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumar_ashutosh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumar_ashutosh01" height="30" width="40" /></a>
 </p>
