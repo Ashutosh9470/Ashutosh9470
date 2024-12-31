@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🌱 I’m currently learning **JavaScript Library,**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Ashutosh9470)
+- 👨‍💻 All of my projects are available at My Portfolio website (https://ashutosh9470.github.io/MyPortfolio/)
 
-- 💬 Ask me about **Java, Python, HTML, Kotlin, Flask, Figma,**
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, Kotlin, Flask, Figma,**
 
 - 📫 How to reach me **sharmashutosh02@gmail.com**
 
